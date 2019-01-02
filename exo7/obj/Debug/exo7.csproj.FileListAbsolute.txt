@@ -1,0 +1,7 @@
+C:\Users\Moi\Desktop\tableaux, listes et enumération\exo1\exo7\obj\Debug\exo7.csprojAssemblyReference.cache
+C:\Users\Moi\Desktop\tableaux, listes et enumération\exo1\exo7\obj\Debug\exo7.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\tableaux, listes et enumération\exo1\exo7\bin\Debug\exo7.exe.config
+C:\Users\Moi\Desktop\tableaux, listes et enumération\exo1\exo7\bin\Debug\exo7.exe
+C:\Users\Moi\Desktop\tableaux, listes et enumération\exo1\exo7\bin\Debug\exo7.pdb
+C:\Users\Moi\Desktop\tableaux, listes et enumération\exo1\exo7\obj\Debug\exo7.exe
+C:\Users\Moi\Desktop\tableaux, listes et enumération\exo1\exo7\obj\Debug\exo7.pdb

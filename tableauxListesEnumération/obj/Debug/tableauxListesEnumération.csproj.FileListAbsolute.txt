@@ -1,0 +1,7 @@
+C:\Users\Moi\Desktop\tableaux, listes et enumération\exo1\tableauxListesEnumération\bin\Debug\tableauxListesEnumération.exe.config
+C:\Users\Moi\Desktop\tableaux, listes et enumération\exo1\tableauxListesEnumération\bin\Debug\tableauxListesEnumération.exe
+C:\Users\Moi\Desktop\tableaux, listes et enumération\exo1\tableauxListesEnumération\bin\Debug\tableauxListesEnumération.pdb
+C:\Users\Moi\Desktop\tableaux, listes et enumération\exo1\tableauxListesEnumération\obj\Debug\tableauxListesEnumération.csprojAssemblyReference.cache
+C:\Users\Moi\Desktop\tableaux, listes et enumération\exo1\tableauxListesEnumération\obj\Debug\tableauxListesEnumération.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\tableaux, listes et enumération\exo1\tableauxListesEnumération\obj\Debug\tableauxListesEnumération.exe
+C:\Users\Moi\Desktop\tableaux, listes et enumération\exo1\tableauxListesEnumération\obj\Debug\tableauxListesEnumération.pdb
